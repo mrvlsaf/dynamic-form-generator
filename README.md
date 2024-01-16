@@ -23,12 +23,12 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shubham947222/online_sales_assesmen.git
+   git clone https://github.com/mrvlsaf/dynamic-form-generator.git
 2. Navigate to the project directory:
   - cd dynamic-form-generator
     
 3. Install dependencies:
-  -npm instal
+  -npm install
    
 5. Run the application:
     -npm run dev
