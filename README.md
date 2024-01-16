@@ -5,10 +5,12 @@ A React.js application for generating dynamic forms with various field types.
 ## Features
 
 - Add and remove form fields dynamically.
-- Support for different field types: text input, number input, checkbox, radio, dropdown.
+- Support for different field types: text input, textarea input, checkbox, radio, dropdown and upload file type.
 - Specify options for dropdown, radio, and checkbox fields.
 - Form submission and validation with error messages for invalid fields.
 - Save and load form configurations as JSON data.
+- Required fields incorporation.
+- File type and size limit on file upload.
 
 ## Getting Started
 
